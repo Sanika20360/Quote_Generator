@@ -15,4 +15,4 @@ A simple Tkinter-based GUI application that generates random inspirational quote
 
 ## Results
 
-![Screenshot of the Quote Generator](screenshot.png)
+![Screenshot of the Quote Generator](screenshot.jpeg)
