@@ -2,7 +2,6 @@ from tkinter import *
 import requests
 
 class QuoteGenerator:
-
     def __init__(self, master):
         self.master = master
         self.master.title("Quote Generator")
